@@ -1,5 +1,12 @@
 # digi-safe
 
+## Front setup
+```
+vue.cmd create digi-safe
+cd digi-safe
+vue.cmd add vuetify
+```
+
 ## Project setup
 ```
 npm install
