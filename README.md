@@ -5,6 +5,7 @@
 vue.cmd create digi-safe
 cd digi-safe
 vue.cmd add vuetify
+npm i vee-validate --save
 ```
 
 ## Project setup
