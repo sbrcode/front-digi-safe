@@ -15,28 +15,27 @@
           width="40"
         />DIGI-SAFE
       </div>
+
+      <v-spacer/>
+
+      <v-btn href="/login" >
+        Already Have An Account ?
+      </v-btn>
+
     </v-app-bar>
 
     <v-main>
-      <!-- <AccountCreation/>
-      <Login/> -->
-      <router-view></router-view>
+        <router-view/>
     </v-main>
   </v-app>
 </template>
 
 <script>
-// import AccountCreation from './components/AccountCreation';
-// import Login from './components/Login';
-
 export default {
   name: 'App',
-
   components: {
-    // AccountCreation,
-    // Login,
-  },
 
+  },
   data: () => ({
     //
   }),

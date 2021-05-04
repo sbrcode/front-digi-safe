@@ -102,7 +102,7 @@ export default {
 .section-container {
   padding: 20px;
   margin: 20px;
-  background: #007fff;
+  background: lightgrey;
   width: 100%;
   box-shadow: 0 0 1px 1px rgba($color: #000000, $alpha: 0.1);
   box-sizing: border-box;
